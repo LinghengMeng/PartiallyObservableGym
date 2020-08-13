@@ -432,15 +432,3 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
    </tbody>
 </table>
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-    <link rel="stylesheet" href="path/to/bootstrap.min.js">
-</head>
-<body>
-<h1>Title</h1>
-<script type="text/javascript" src="path/to/jquery.min.js" />
-</body>
-</html>
