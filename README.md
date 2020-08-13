@@ -197,5 +197,180 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="width: 10px;">&nbsp;</td>
 <td style="width: 44px; text-align: center;">&nbsp;</td>
 </tr>
+<tr>
+<td style="width: 152px; text-align: center;" rowspan="14">&nbsp;<strong>PyBulletGym</strong></td>
+<td style="width: 28px; text-align: center;" rowspan="7">&nbsp;<strong>RoboSchool Envs</strong></td>
+<td style="width: 307px;">&nbsp;<a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/walker_base.py" target="_blank" rel="noopener">HalfCheetahPyBulletEnv-v0</a></td>
+<td style="width: 10px; text-align: center;">&nbsp;26</td>
+<td style="width: 326.4px; text-align: center;">
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-20 (d=12)</li>
+<li>feet contact: 21-26 (d=6)</li>
+</ul>
+</td>
+<td style="width: 10px;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28px; text-align: center;">&nbsp;<a href="http://localhost:8888/notebooks/Google%20Drive/git_repos/spinningup-new/spinup/algos/pytorch/lstm_ddpg/Untitled2.ipynb" target="_blank" rel="noopener">AntPyBulletEnv-v0</a></td>
+<td style="width: 307px;">&nbsp;28</td>
+<td style="width: 10px;">
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-24 (d=16)</li>
+<li>feet contact: 25-28 (d=4)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28px; text-align: center;">&nbsp;<a href="http://localhost:8888/notebooks/Google%20Drive/git_repos/spinningup-new/spinup/algos/pytorch/lstm_ddpg/Untitled2.ipynb" target="_blank" rel="noopener">Walker2DPyBulletEnv-v0</a></td>
+<td style="width: 307px;">&nbsp;22</td>
+<td style="width: 10px;">
+<ul>
+<li>&nbsp;more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-20 (d=12)</li>
+<li>feet contact: 21-22 (d=2)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28px; text-align: center;"><a href="http://localhost:8888/notebooks/Google%20Drive/git_repos/spinningup-new/spinup/algos/pytorch/lstm_ddpg/Untitled2.ipynb" target="_blank" rel="noopener">HopperPyBulletEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">15</td>
+<td style="width: 10px;">
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-14 (d=6)</li>
+<li>feet contact: 15 (d=1)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/pendula/interted_pendulum.py" target="_blank" rel="noopener">InvertedPendulumPyBulletEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">5</td>
+<td style="width: 10px;">
+<ul>
+<li>slider x: 1</li>
+<li>slider velocity x: 2</li>
+<li>cos: 3</li>
+<li>sin: 4</li>
+<li>theta_dot: 5</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/pendula/inverted_double_pendulum.py" target="_blank" rel="noopener">InvertedDoublePendulumPyBulletEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">9</td>
+<td style="width: 10px;">
+<ul>
+<li>slider x: 1</li>
+<li>slider velocity x: 2</li>
+<li>pole2 x: 3</li>
+<li>j1 cos: 4</li>
+<li>j1 sin: 5</li>
+<li>j1 dot: 6</li>
+<li>j2 cos: 7</li>
+<li>j2 sin: 8</li>
+<li>j2 dot: 9</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/manipulators/reacher.py" target="_blank" rel="noopener">ReacherPyBulletEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">9</td>
+<td style="width: 10px;">
+<ul>
+<li>target x: 1</li>
+<li>target y: 2</li>
+<li>to_target_vec 1: 3</li>
+<li>to_target_vec 2: 4</li>
+<li>central_joint cos: 5</li>
+<li>central_joint sin: 6</li>
+<li>central_joint dot: 7</li>
+<li>elbow_joint gamma: 8</li>
+<li>elbow_joint gamma dot: 9</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 152px; text-align: center;" rowspan="7">&nbsp;<strong>MuJoCo Envs</strong></td>
+<td style="width: 28px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/half_cheetah.py" target="_blank" rel="noopener">HalfCheetahMuJoCoEnv-v0</a>&nbsp;</td>
+<td style="width: 307px;">&nbsp;17</td>
+<td style="width: 10px;">
+<ul>
+<li>&nbsp;position: 1-8 (d=8)</li>
+<li>velocity: 9-17 (d=9)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 152px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/ant.py" target="_blank" rel="noopener">AntMuJoCoEnv-v0</a>&nbsp;</td>
+<td style="width: 307px;">&nbsp;111</td>
+<td style="width: 10px;">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
 </tbody>
 </table>
