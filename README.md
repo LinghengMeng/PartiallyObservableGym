@@ -17,8 +17,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </tr>
 
 <tr>
-<td style="width: 65px; text-align: center;" rowspan="22">&nbsp;OpenAI Gym</td>
-<td style="width: 66px;" rowspan="22">&nbsp;MuJoCo</td>
+<td style="width: 65px; text-align: center;" rowspan="13">&nbsp;OpenAI Gym</td>
+<td style="width: 66px;" rowspan="13">&nbsp;MuJoCo</td>
 <td style="width: 152px; text-align: center;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/half_cheetah_v3.py" target="_blank" rel="noopener">HalfCheetah-v3</a> <a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/half_cheetah.py" target="_blank" rel="noopener">HalfCheetah-v2</a></td>
 <td style="width: 28px; text-align: center;">17</td>
 <td style="width: 307px; text-align: center;">
