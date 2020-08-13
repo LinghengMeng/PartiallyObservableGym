@@ -350,8 +350,9 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="width: 326.4px; text-align: center;">&nbsp;</td>
 <td style="width: 10px;">&nbsp;</td>
 </tr>
+
 <tr>
-<td style="width: 152px; text-align: center;" rowspan="7">&nbsp;<strong>MuJoCo Envs</strong></td>
+<td style="width: 152px; text-align: center;" rowspan="11">&nbsp;<strong>MuJoCo Envs</strong></td>
 <td style="width: 28px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/half_cheetah.py" target="_blank" rel="noopener">HalfCheetahMuJoCoEnv-v0</a>&nbsp;</td>
 <td style="width: 307px;">&nbsp;17</td>
 <td style="width: 10px;">
@@ -368,7 +369,60 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="width: 307px;">&nbsp;111</td>
 <td style="width: 10px;">
 <ul>
-<li>&nbsp;</li>
+<li>position: 1-13 (d=13)</li>
+<li>velocity: 14-27 (d=14)</li>
+<li>cfrc_ext: 28-111 (d=64) (The cfrc_ext is set to zeros in PyBulletGym.) (The cfrc_ext are the external forces (force x,y,z and torque x,y,z) applied to each of the links at the center of mass. For the Ant, this is 14*6: the ground link, the torso link, and 12 links for all legs (3 links for each leg))</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 152px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/walker2d.py" target="_blank" rel="noopener">Walker2DMuJoCoEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">17</td>
+<td style="width: 10px;">
+<ul>
+<li>position: 1-8 (d=8)</li>
+<li>velocity: 9-17 (d=9)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 152px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/hopper.py" target="_blank" rel="noopener">HopperMuJoCoEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">15</td>
+<td style="width: 10px;">
+<ul>
+<li>position: 1-7 (d=7)</li>
+<li>velocity: 8-15 (d=8)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 152px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/pendula/inverted_pendulum.py" target="_blank" rel="noopener">InvertedPendulumMuJoCoEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">4</td>
+<td style="width: 10px;">
+<ul>
+<li>position: 1-3 (d=3)</li>
+<li>velocity: 4 (d=1)</li>
+</ul>
+</td>
+<td style="width: 326.4px; text-align: center;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 152px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/pendula/inverted_double_pendulum.py" target="_blank" rel="noopener">InvertedDoublePendulumMuJoCoEnv-v0</a></td>
+<td style="width: 307px; text-align: center;">11</td>
+<td style="width: 10px;">
+<ul>
+<li>cart position: 1</li>
+<li>link angles sin: 2-3</li>
+<li>link angles cos: 4-5</li>
+<li>link velocity: 6-8</li>
+<li>qfrc_constraint: 9-11</li>
 </ul>
 </td>
 <td style="width: 326.4px; text-align: center;">&nbsp;</td>
