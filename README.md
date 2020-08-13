@@ -1,7 +1,7 @@
 # PartiallyObservableGym
 This repository summarizes tasks used in DRL and defines a set of POMDP on top of them.
 
-<table class="table-dense" style="height: 3679px; width: 935px;">
+<table class="table-dense" style="height: 3679px; width: 935px; margin-left: auto; margin-right: auto; font-size: 50%;" border="black" cellspacing="0" cellpadding="0">
    <tbody>
       <tr>
          <td style="width: 105.5px; text-align: center;" rowspan="2"><strong>Platform</strong></td>
@@ -353,7 +353,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
          <td style="width: 98px;">&nbsp;</td>
       </tr>
       <tr>
-         <td style="width: 97.5px; text-align: center;" rowspan="11">&nbsp;<strong>MuJoCo Envs</strong></td>
+         <td style="width: 97.5px; text-align: center;" rowspan="6">&nbsp;<strong>MuJoCo Envs</strong></td>
          <td style="width: 267px; text-align: center;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/half_cheetah.py" target="_blank" rel="noopener">HalfCheetahMuJoCoEnv-v0</a>&nbsp;</td>
          <td style="width: 32px;">&nbsp;17</td>
          <td style="width: 290px;">
