@@ -1,6 +1,11 @@
 # PartiallyObservableGym
 This repository summarizes tasks used in DRL and defines a set of POMDP on top of them.
 
+| Task                          | Observation                  | Action |   |   |
+|-------------------------------|------------------------------|--------|---|---|
+| HalfCheetah-v3 HalfCheetah-v2 | dim=17 * position * velocity |        |   |   |
+|                               |                              |        |   |   |
+|                               |                              |        |   |   |
 
 <table>
 <thead>
