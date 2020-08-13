@@ -20,11 +20,14 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
          <td style="width: 97.5px; text-align: center;" rowspan="13">&nbsp;<strong>MuJoCo</strong></td>
          <td style="width: 267px; text-align: center;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/half_cheetah_v3.py" target="_blank" rel="noopener">HalfCheetah-v3</a> <a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/half_cheetah.py" target="_blank" rel="noopener">HalfCheetah-v2</a></td>
          <td style="width: 32px; text-align: center;">17</td>
-         <td style="width: 290px; text-align: center;">
-            <ul>
-               <li style="text-align: left;">Position: 1-8 (d=8)</li>
-               <li style="text-align: left;">Velocity: 9-17 (d=9)</li>
-            </ul>
+         <td style="width: 290px; text-align: left; padding-left: 30px;">
+            <details>
+               <summary>Click to expand</summary>
+               <ul>
+                  <li style="text-align: left;">Position: 1-8 (d=8)</li>
+                  <li style="text-align: left;">Velocity: 9-17 (d=9)</li>
+               </ul>
+            </details>
          </td>
          <td style="width: 31.5px; text-align: center;">&nbsp;6</td>
          <td style="width: 98px; text-align: center;">&nbsp;</td>
@@ -32,12 +35,15 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
       <tr>
          <td style="width: 267px; text-align: center;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/ant_v3.py" target="_blank" rel="noopener">Ant-v3</a> <a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/ant.py" target="_blank" rel="noopener">Ant-v2</a></td>
          <td style="width: 32px; text-align: center;">111</td>
-         <td style="width: 290px;">
-            <ul>
-               <li>position: 1-13 (d=13)</li>
-               <li>velocity: 14-27 (d=14)</li>
-               <li>cfrc_ext: 28-111 (d=64)</li>
-            </ul>
+         <td style="width: 290px; text-align: left; padding-left: 30px;">
+            <details>
+               <summary>Click to expand</summary>
+               <ul>
+                  <li>position: 1-13 (d=13)</li>
+                  <li>velocity: 14-27 (d=14)</li>
+                  <li>cfrc_ext: 28-111 (d=64)</li>
+               </ul>
+            </details>
          </td>
          <td style="width: 31.5px; text-align: center;">&nbsp;8</td>
          <td style="width: 98px;">&nbsp;</td>
@@ -45,11 +51,14 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
       <tr>
          <td style="width: 267px; text-align: center;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/walker2d_v3.py" target="_blank" rel="noopener">Walker2d-v3</a> <a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/walker2d.py" target="_blank" rel="noopener">Walker2d-v2</a></td>
          <td style="width: 32px; text-align: center;">&nbsp;17</td>
-         <td style="width: 290px;">
-            <ul>
-               <li>position: 1-8 (d=8)</li>
-               <li>velocity: 9-17 (d=9)</li>
-            </ul>
+         <td style="width: 290px; text-align: left; padding-left: 30px;">
+            <details>
+               <summary>Click to expand</summary>
+               <ul>
+                  <li>position: 1-8 (d=8)</li>
+                  <li>velocity: 9-17 (d=9)</li>
+               </ul>
+            </details>
          </td>
          <td style="width: 31.5px; text-align: center;">&nbsp;6</td>
          <td style="width: 98px; text-align: center;">&nbsp;</td>
