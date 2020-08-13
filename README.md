@@ -15,6 +15,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="width: 10px; text-align: center;">Dim</td>
 <td style="width: 44px; text-align: center;" rowspan="1">Comp</td>
 </tr>
+
 <tr>
 <td style="width: 65px; text-align: center;" rowspan="22">&nbsp;OpenAI Gym</td>
 <td style="width: 66px;" rowspan="22">&nbsp;MuJoCo</td>
@@ -197,6 +198,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="width: 10px;">&nbsp;</td>
 <td style="width: 44px; text-align: center;">&nbsp;</td>
 </tr>
+
 <tr>
 <td style="width: 152px; text-align: center;" rowspan="14">&nbsp;<strong>PyBulletGym</strong></td>
 <td style="width: 28px; text-align: center;" rowspan="7">&nbsp;<strong>RoboSchool Envs</strong></td>
