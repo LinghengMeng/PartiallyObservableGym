@@ -1,4 +1,6 @@
 <p># PartiallyObservableGym This repository summarizes tasks used in DRL and defines a set of POMDP on top of them.</p>
+
+<div style="width:500px;text-align: center;">
 <table style="width: 1000px;" border="black" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 19px;">
@@ -672,3 +674,4 @@
 </tr>
 </tbody>
 </table>
+</div>
