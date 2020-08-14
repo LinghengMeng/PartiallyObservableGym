@@ -1,7 +1,4 @@
-# PartiallyObservableGym
-This repository summarizes tasks used in DRL and defines a set of POMDP on top of them.
-
-
+<p># PartiallyObservableGym This repository summarizes tasks used in DRL and defines a set of POMDP on top of them.</p>
 <table style="width: 1200px;" border="black" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 19px;">
@@ -19,8 +16,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="height: 18px; text-align: center; width: 200px;" rowspan="1"><strong>Composition</strong></td>
 </tr>
 <tr style="height: 78px;">
-<td style="height: 882px; width: 120px; text-align: center;" rowspan="13"> <strong>OpenAI Gym</strong></td>
-<td style="height: 882px; width: 100px; text-align: center;" rowspan="13"> <strong>MuJoCo</strong></td>
+<td style="height: 882px; width: 120px; text-align: center;" rowspan="13">&nbsp;<strong>OpenAI Gym</strong></td>
+<td style="height: 882px; width: 100px; text-align: center;" rowspan="13">&nbsp;<strong>MuJoCo</strong></td>
 <td style="height: 78px; width: 212px;">
 <p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/half_cheetah_v3.py" target="_blank" rel="noopener">HalfCheetah-v3</a></p>
 <p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/half_cheetah.py" target="_blank" rel="noopener">HalfCheetah-v2</a></p>
@@ -34,7 +31,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 78px; width: 69.5px;">6</td>
 <td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 78px; width: 69px;"> </td>
+<td style="height: 78px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/HalfCheetah-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 78px;">
@@ -52,7 +49,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 78px; width: 69.5px;">8</td>
 <td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 78px; width: 69px;"> </td>
+<td style="height: 78px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Ant-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 78px;">
@@ -69,12 +66,12 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 78px; width: 69.5px;">6</td>
 <td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 78px; width: 69px;"> </td>
+<td style="height: 78px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Walker2d-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 78px;">
 <td style="height: 78px; width: 212px;">
-<p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/hopper_v3.py" target="_blank" rel="noopener">Hopper-v3</a> </p>
+<p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/hopper_v3.py" target="_blank" rel="noopener">Hopper-v3</a>&nbsp;</p>
 <p><a href="http://localhost:8888/notebooks/Google%20Drive/git_repos/spinningup-new/spinup/algos/pytorch/lstm_ddpg/Untitled2.ipynb" target="_blank" rel="noopener">Hopper-v2</a></p>
 </td>
 <td style="text-align: center; height: 78px; width: 60px;">11</td>
@@ -86,7 +83,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 78px; width: 69.5px;">3</td>
 <td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 78px; width: 69px;"> </td>
+<td style="height: 78px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Hopper-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -100,7 +97,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">1</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/InvertedPendulum-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -116,8 +113,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">1</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/InvertedDoublePendulum-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 78px;">
@@ -134,7 +131,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 78px; width: 69.5px;">2</td>
 <td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 78px; width: 69px;"> </td>
+<td style="height: 78px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Swimmer-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -150,8 +147,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">7</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
 </tr>
 <tr style="height: 72px;">
@@ -168,8 +165,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">7</td>
 <td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 72px; width: 69px;"> </td>
-<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details> </td>
+<td style="height: 72px; width: 69px;">&nbsp;</td>
+<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 </tr>
 <tr style="height: 72px;">
 <td style="height: 72px; width: 212px;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/pusher.py" target="_blank" rel="noopener">Pusher-v2</a></td>
@@ -184,9 +181,9 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">7</td>
-<td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 72px; width: 69px;"> </td>
-<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details> </td>
+<td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 72px; width: 69px;">&nbsp;</td>
+<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/reacher.py" target="_blank" rel="noopener">Reacher-v2</a></td>
@@ -202,12 +199,12 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">2</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Reacher-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 78px;">
 <td style="height: 78px; width: 212px;">
-<p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/humanoid_v3.py" target="_blank" rel="noopener">Humanoid-v3</a> </p>
+<p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/humanoid_v3.py" target="_blank" rel="noopener">Humanoid-v3</a>&nbsp;</p>
 <p><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/humanoid.py" target="_blank" rel="noopener">Humanoid-v2</a></p>
 </td>
 <td style="text-align: center; height: 78px; width: 60px;">376</td>
@@ -222,8 +219,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 78px; width: 69.5px;">6</td>
-<td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 78px; width: 69px;"> </td>
+<td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 78px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Humanoid-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -240,13 +237,13 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">17</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/HumanoidStandup-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
-<td style="height: 720px; width: 120px; text-align: center;" rowspan="13"> <strong>PyBulletGym</strong></td>
-<td style="height: 378px; width: 100px; text-align: center;" rowspan="7"> <strong>RoboSchool Envs</strong></td>
+<td style="height: 720px; width: 120px; text-align: center;" rowspan="22">&nbsp;<strong>PyBulletGym</strong></td>
+<td style="height: 378px; width: 100px; text-align: center;" rowspan="15">&nbsp;<strong>RoboSchool Envs</strong></td>
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/walker_base.py" target="_blank" rel="noopener">HalfCheetahPyBulletEnv-v0</a></td>
 <td style="text-align: center; height: 54px; width: 60px;">26</td>
 <td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
@@ -269,7 +266,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">6</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/HalfCheetahPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -295,7 +292,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">8</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/AntPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -303,7 +300,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="text-align: center; height: 54px; width: 60px;">22</td>
 <td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
 <ul>
-<li> more: (d=8)
+<li>&nbsp;more: (d=8)
 <ul>
 <li>distance at z: 1</li>
 <li>angle_to_target sin: 2</li>
@@ -321,7 +318,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">6</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/Walker2DPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -346,8 +343,8 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">3</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/HopperPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -364,7 +361,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">1</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details open=""><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/InvertedPendulumPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
@@ -385,8 +382,25 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">1</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/InvertedDoublePendulumPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/pendula/inverted_double_pendulum.py" target="_blank" rel="noopener">InvertedPendulumSwingupPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">5</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>slider x: 1</li>
+<li>slider velocity x: 2</li>
+<li>cos: 3</li>
+<li>sin: 4</li>
+<li>theta_dot: 5</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">1</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/InvertedPendulumSwingupPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/manipulators/reacher.py" target="_blank" rel="noopener">ReacherPyBulletEnv-v0</a></td>
@@ -405,27 +419,185 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">2</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details> </td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/ReacherPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
-<td style="text-align: center; height: 342px; width: 100px;" rowspan="6"> <strong>MuJoCo Envs</strong></td>
-<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/half_cheetah.py" target="_blank" rel="noopener">HalfCheetahMuJoCoEnv-v0</a> </td>
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/manipulators/pusher.py">PusherPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">55</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>Position: (d=22)</li>
+<li>Velocity: (d=22)</li>
+<li>target_pos - object_pos: (d=2)</li>
+<li>fingertip.pose().xyz(): (d=3)</li>
+<li>object.pose().xyz(): (d=3)</li>
+<li>target.pose().xyz(): (d=3)</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">7</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/PusherPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/manipulators/striker.py">StrikerPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">&nbsp;56</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>Position: (d=22)</li>
+<li>Velocity: (d=22)</li>
+<li>target_pos - object_pos: (d=3)</li>
+<li>fingertip.pose().xyz(): (d=3)</li>
+<li>object.pose().xyz(): (d=3)</li>
+<li>target.pose().xyz(): (d=3)</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">7</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/StrikerPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/manipulators/thrower.py">ThrowerPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">&nbsp;48</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>Position: (d=18)</li>
+<li>Velocity: (d=18)</li>
+<li>target_pos - object_pos: (d=3)</li>
+<li>fingertip.pose().xyz(): (d=3)</li>
+<li>object.pose().xyz(): (d=3)</li>
+<li>target.pose().xyz(): (d=3)</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">7&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/ThrowerPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/humanoid.py">HumanoidPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">44</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-42 (d=34)</li>
+<li>feet contact: 43-44 (d=2)</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">17</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/HumanoidPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/humanoid_flagrun.py">HumanoidFlagrunPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">44</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><details><summary>Click to expand</summary>
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-42 (d=34)</li>
+<li>feet contact: 43-44 (d=2)</li>
+</ul>
+</details></details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">&nbsp;17</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;">&nbsp;</td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/humanoid_flagrun.py">HumanoidFlagrunHarderPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">44</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><details><summary>Click to expand</summary>
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-42 (d=34)</li>
+<li>feet contact: 43-44 (d=2)</li>
+</ul>
+</details></details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">&nbsp;17</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;">&nbsp;</td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/atlas.py">AtlasPyBulletEnv-v0</a></td>
+<td style="text-align: center; height: 54px; width: 60px;">70</td>
+<td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>more: (d=8)
+<ul>
+<li>distance at z: 1</li>
+<li>angle_to_target sin: 2</li>
+<li>angle_to_target cos: 3</li>
+<li>velocity x: 4</li>
+<li>velocity y: 5</li>
+<li>velocity z: 6</li>
+<li>roll: 7</li>
+<li>pitch: 8</li>
+</ul>
+</li>
+<li>position: 9-68 (d=60)</li>
+<li>feet contact: 69-70 (d=2)</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 54px; width: 69.5px;">30&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;">&nbsp;</td>
+</tr>
+<tr style="height: 54px;">
+<td style="text-align: center; height: 342px; width: 100px;" rowspan="7">&nbsp;<strong>MuJoCo Envs</strong></td>
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/half_cheetah.py" target="_blank" rel="noopener">HalfCheetahMuJoCoEnv-v0</a>&nbsp;</td>
 <td style="text-align: center; height: 54px; width: 60px;">17</td>
 <td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
 <ul>
-<li> position: 1-8 (d=8)</li>
+<li>&nbsp;position: 1-8 (d=8)</li>
 <li>velocity: 9-17 (d=9)</li>
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">6</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
 </tr>
 <tr style="height: 54px;">
-<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/ant.py" target="_blank" rel="noopener">AntMuJoCoEnv-v0</a> </td>
+<td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/ant.py" target="_blank" rel="noopener">AntMuJoCoEnv-v0</a>&nbsp;</td>
 <td style="text-align: center; height: 54px; width: 60px;">111</td>
 <td style="height: 54px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
 <ul>
@@ -436,7 +608,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">8</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
 </tr>
 <tr style="height: 54px;">
@@ -450,7 +622,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">6</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
 </tr>
 <tr style="height: 54px;">
@@ -464,7 +636,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">3</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
 </tr>
 <tr style="height: 54px;">
@@ -478,7 +650,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">1</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 54px; width: 69px;"> </td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
 </tr>
 <tr style="height: 72px;">
@@ -495,11 +667,26 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">1</td>
 <td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 72px; width: 69px;"> </td>
-<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details> </td>
+<td style="height: 72px; width: 69px;">&nbsp;</td>
+<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+</tr>
+<tr style="height: 72px;">
+<td style="height: 72px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/humanoid.py">HumanoidMuJoCoEnv-v0</a></td>
+<td style="text-align: center; height: 72px; width: 60px;">376</td>
+<td style="height: 78px; padding-left: 5px; width: 200px;"><details><summary>Click to expand</summary>
+<ul>
+<li>position: 1-22 (d=22)</li>
+<li>velocity: 23-45 (d=23)</li>
+<li>com_inertia: 46-185 (d=140)</li>
+<li>com_velocity: 186-269 (d=84)</li>
+<li>actuator_forces: 270-292 (d=23)</li>
+<li>external_contact_forces: 293-376 (d=84)</li>
+</ul>
+</details></td>
+<td style="text-align: center; height: 72px; width: 69.5px;">17</td>
+<td style="height: 72px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
+<td style="height: 72px; width: 69px;">&nbsp;</td>
+<td style="height: 72px; padding-left: 5px; width: 141px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-
-
-
