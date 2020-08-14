@@ -10,13 +10,13 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="height: 19px; text-align: center; width: 260px;" colspan="2"><strong>Observation</strong></td>
 <td style="height: 19px; text-align: center; width: 259px;" colspan="2"><strong>Action</strong></td>
 <td style="height: 37px; text-align: center; width: 69px;" rowspan="2"><strong>Reward</strong></td>
-<td style="height: 37px; text-align: center; width: 141px;" colspan="1" rowspan="2"><strong>Image</strong></td>
+<td style="height: 37px; text-align: center; width: 200px;" colspan="1" rowspan="2"><strong>Image</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; text-align: center; width: 60px;"><strong>Dim</strong></td>
 <td style="height: 18px; text-align: center; width: 200px;" rowspan="1"><strong>Composition</strong></td>
-<td style="height: 18px; text-align: center; width: 69.5px;"><strong>Dim</strong></td>
-<td style="height: 18px; text-align: center; width: 189.5px;" rowspan="1"><strong>Composition</strong></td>
+<td style="height: 18px; text-align: center; width: 60px;"><strong>Dim</strong></td>
+<td style="height: 18px; text-align: center; width: 200px;" rowspan="1"><strong>Composition</strong></td>
 </tr>
 <tr style="height: 78px;">
 <td style="height: 882px; width: 120px; text-align: center;" rowspan="13"> <strong>OpenAI Gym</strong></td>
@@ -35,7 +35,7 @@ This repository summarizes tasks used in DRL and defines a set of POMDP on top o
 <td style="text-align: center; height: 78px; width: 69.5px;">6</td>
 <td style="height: 78px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
 <td style="height: 78px; width: 69px;"> </td>
-<td style="height: 78px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 78px; padding-left: 5px; width: 141px;"><img src="https://github.com/LinghengMeng/PartiallyObservableGym/blob/master/images/OpenAIGym/MuJoCo/HalfCheetah-v2.PNG" alt="" width="50" height="50" /></td>
 </tr>
 <tr style="height: 78px;">
 <td style="height: 78px; width: 212px;">
