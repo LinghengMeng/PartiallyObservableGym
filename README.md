@@ -147,9 +147,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">7</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Thrower-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 72px;">
 <td style="height: 72px; width: 212px;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/striker.py" target="_blank" rel="noopener">Striker-v2</a></td>
@@ -164,9 +164,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">7</td>
-<td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 72px; width: 69px;">&nbsp;</td>
-<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Striker-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 72px;">
 <td style="height: 72px; width: 212px;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/pusher.py" target="_blank" rel="noopener">Pusher-v2</a></td>
@@ -181,9 +181,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">7</td>
-<td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
-<td style="height: 72px; width: 69px;">&nbsp;</td>
-<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/OpenAIGym/MuJoCo/Pusher-v2.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/openai/gym/blob/master/gym/envs/mujoco/reacher.py" target="_blank" rel="noopener">Reacher-v2</a></td>
@@ -472,7 +472,7 @@
 <li>target.pose().xyz(): (d=3)</li>
 </ul>
 </details></td>
-<td style="text-align: center; height: 54px; width: 69.5px;">7&nbsp;</td>
+<td style="text-align: center; height: 54px; width: 69.5px;">7</td>
 <td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
 <td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/ThrowerPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
@@ -525,9 +525,9 @@
 </ul>
 </details></details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">&nbsp;17</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="text-align: center; height: 78px; width: 141px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/HumanoidFlagrunPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/humanoid_flagrun.py">HumanoidFlagrunHarderPyBulletEnv-v0</a></td>
@@ -550,10 +550,10 @@
 <li>feet contact: 43-44 (d=2)</li>
 </ul>
 </details></details></td>
-<td style="text-align: center; height: 54px; width: 69.5px;">&nbsp;17</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
+<td style="text-align: center; height: 54px; width: 69.5px;">17</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="text-align: center; height: 78px; width: 141px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/RoboSchool/HumanoidFlagrunHarderPyBulletEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/roboschool/robots/locomotors/atlas.py">AtlasPyBulletEnv-v0</a></td>
@@ -592,9 +592,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">6</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/HalfCheetahMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/ant.py" target="_blank" rel="noopener">AntMuJoCoEnv-v0</a>&nbsp;</td>
@@ -607,9 +607,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">8</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/AntMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/walker2d.py" target="_blank" rel="noopener">Walker2DMuJoCoEnv-v0</a></td>
@@ -621,9 +621,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">6</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/Walker2DMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/hopper.py" target="_blank" rel="noopener">HopperMuJoCoEnv-v0</a></td>
@@ -635,9 +635,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">3</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/HopperMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 54px;">
 <td style="height: 54px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/pendula/inverted_pendulum.py" target="_blank" rel="noopener">InvertedPendulumMuJoCoEnv-v0</a></td>
@@ -649,9 +649,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 54px; width: 69.5px;">1</td>
-<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
 <td style="height: 54px; width: 69px;">&nbsp;</td>
-<td style="height: 54px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details></td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/InvertedPendulumMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 72px;">
 <td style="height: 72px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/pendula/inverted_double_pendulum.py" target="_blank" rel="noopener">InvertedDoublePendulumMuJoCoEnv-v0</a></td>
@@ -666,9 +666,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">1</td>
-<td style="height: 72px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details></td>
-<td style="height: 72px; width: 69px;">&nbsp;</td>
-<td style="height: 72px; padding-left: 5px; width: 141px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/InvertedDoublePendulumMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 <tr style="height: 72px;">
 <td style="height: 72px; width: 212px;"><a href="https://github.com/benelot/pybullet-gym/blob/master/pybulletgym/envs/mujoco/robots/locomotors/humanoid.py">HumanoidMuJoCoEnv-v0</a></td>
@@ -684,9 +684,9 @@
 </ul>
 </details></td>
 <td style="text-align: center; height: 72px; width: 69.5px;">17</td>
-<td style="height: 72px; padding-left: 5px; width: 189.5px;">&nbsp;</td>
-<td style="height: 72px; width: 69px;">&nbsp;</td>
-<td style="height: 72px; padding-left: 5px; width: 141px;">&nbsp;</td>
+<td style="height: 54px; padding-left: 5px; width: 189.5px;"><details><summary>Click to expand</summary></details>&nbsp;</td>
+<td style="height: 54px; width: 69px;">&nbsp;</td>
+<td style="text-align: center; height: 78px; width: 141px;"><img src="images/PyBulletGym/MuJoCo/HumanoidMuJoCoEnv-v0.PNG" alt="" width="80" height="80" /></td>
 </tr>
 </tbody>
 </table>
